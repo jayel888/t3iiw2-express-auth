@@ -17,7 +17,7 @@ JWT - JSON Web Token
 
 ## Routes
 - Auth routes: Routes for authentication
-- Note routes: Routes for notes
+- Post routes: Routes for posts
 
 ## Middlewares (between the request and response)
 - Auth middlewares: for JWT validation
